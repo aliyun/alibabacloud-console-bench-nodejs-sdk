@@ -2,7 +2,7 @@
 <a href=" https://www.alibabacloud.com"><img src="https://aliyunsdk-pages.alicdn.com/icons/Aliyun.svg"></a>
 </p>
 
-<h1 align="center"> 企业工作台 Node SDK </h1>
+<h1 align="center"> 企业工作台 Node.js SDK </h1>
 
 ## 安装
 
