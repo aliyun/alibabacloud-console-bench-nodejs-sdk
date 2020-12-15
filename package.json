@@ -1,0 +1,30 @@
+{
+  "name": "@alicloud/console-bench-core",
+  "version": "1.0.0",
+  "description": "alibabacloud console bench sdk core",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.alibaba-inc.com:isv-projects/node-sdk.git"
+  },
+  "keywords": [
+    "aliyun",
+    "alibabacloud",
+    "consolebench",
+    "pop",
+    "openapi"
+  ],
+  "author": "zhenhua lee",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "httpx": "^2.2.7",
+    "json-bigint": "^1.0.0",
+    "kitx": "^2.1.0"
+  }
+}
